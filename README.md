@@ -1,4 +1,5 @@
 # Call-Center-Performance-Analysis-Dashboard
+
 # Overview
 The Call Center Dashboard project aims to analyze and visualize key performance indicators (KPIs) for a call center using Power BI. The dashboard provides insights into customer satisfaction, call handling efficiency, and agent performance, helping stakeholders make data-driven decisions.
 # Data Source
@@ -23,15 +24,22 @@ This dataset was gotten from Deloitte [01 Call-Center-Dataset.xlsx](https://gith
 
 # Objectives
 1. Monitor overall customer satisfaction trends.
+   
 2. Analyze call volume by time to identify peak hours.
+   
 3. Measure call handling efficiency, including answer rates and average speed of answer.
+   
 4. Evaluate agent performance based on call handling time and resolution rates.
 
 # Recommendations
 A. Optimize staffing schedules based on peak call times to improve response efficiency.
+
 B. Improve agent training programs by analyzing performance trends and addressing weaknesses.
+
 C. Enhance customer satisfaction strategies by identifying common pain points from feedback data.
+
 D. Reduce call abandonment rates by implementing automated responses or callback options during high-traffic periods.
+
 E. Regularly update the dashboard with real-time data for better monitoring and proactive decision-making.
 
 # Conclusion
