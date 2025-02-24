@@ -1,4 +1,12 @@
 # Call-Center-Performance-Analysis-Dashboard
+# Table Of Content
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Data Sources](#data-sources)  
+4. [Key Performance Indicators](#Key-Performance-Indicators)
+5. [Dashboard](#dashboard)
+6. [Objectives](#Objectives)
+7. [Recommendation](#Recommendation) 
 
 # Overview
 The Call Center Dashboard project aims to analyze and visualize key performance indicators (KPIs) for a call center using Power BI. The dashboard provides insights into customer satisfaction, call handling efficiency, and agent performance, helping stakeholders make data-driven decisions.
