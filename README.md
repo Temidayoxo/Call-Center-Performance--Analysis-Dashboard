@@ -1,15 +1,35 @@
 # Call-Center-Performance-Analysis-Dashboard
 # Table Of Content
 1. [Introduction](#introduction)
-2. [Project Overview](#project-overview)
+2. [Dataset Overview](#Dataset-overview)
 3. [Data Sources](#data-sources)  
 4. [Key Performance Indicators](#Key-Performance-Indicators)
 5. [Dashboard](#dashboard)
 6. [Objectives](#Objectives)
 7. [Recommendation](#Recommendation) 
 
-# Overview
+# Introduction
 The Call Center Dashboard project aims to analyze and visualize key performance indicators (KPIs) for a call center using Power BI. The dashboard provides insights into customer satisfaction, call handling efficiency, and agent performance, helping stakeholders make data-driven decisions.
+# Dataset Overview
+
+The dataset includes key columns such as:
+
+Call ID – Unique identifier for each call.
+
+Agent – Name of the call center agent handling the call.
+
+Date & Time – Timestamp of the call.
+
+Answered (Y/N) – Indicates if the call was answered.
+
+Resolved – Shows whether the issue was resolved.
+
+Speed of Answer (seconds) – Time taken to answer the call.
+
+AvgTalkDuration – Call duration (converted to seconds for analysis).
+
+Satisfaction Rating – Customer feedback rating.
+
 # Data Source
 This dataset was gotten from Deloitte [01 Call-Center-Dataset.xlsx](https://github.com/user-attachments/files/18942264/01.Call-Center-Dataset.xlsx)
 
